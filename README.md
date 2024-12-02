@@ -1,1 +1,1 @@
-# Google-Apps-Rating-Analysis
+# Google Apps Rating Analysis
